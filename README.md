@@ -1,1 +1,2 @@
+# COVID-19 Pandemic Dashboard
 COVID-19 Pandemic Dashboard is an interactive data visualization application built using Python and Streamlit. The dashboard analyzes COVID-19 data and presents key insights such as confirmed cases, recoveries, deaths, trends over time, and country-wise statistics through dynamic charts and graphs. It provides a simple and user-friendly interface for exploring pandemic-related data and understanding the spread and impact of COVID-19.
